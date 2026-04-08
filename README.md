@@ -25,8 +25,7 @@
   - Activation functions  
   - Training & backpropagation  
 - 📈 Experience building dashboards using **Excel & Python**  
-- 💼 Seeking opportunities in **Data Science / Analytics**  
-- 🚀 Long-term goal: Build my own company solving real-world problems  
+- 💼 Seeking opportunities in **Data Science / Analytics**   
 
 ---
 
@@ -42,6 +41,16 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly"/>
   <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 ---
@@ -52,13 +61,13 @@
 - Designed relational database  
 - Performed joins & advanced queries  
 - Generated business insights  
-- 🔗 Project Link: (Add your GitHub link here)
+- 🔗 Project Link: (https://github.com/Ayush123-ux-ai/Ecommerce-SQL-Project.git)
 
 ### 🔹 FIFA Data Analysis  
 - Conducted EDA using Python  
 - Built visualizations  
 - Analyzed player performance trends  
-- 🔗 Project Link: (Add your GitHub link here)
+- 🔗 Project Link: (https://github.com/Ayush123-ux-ai/FIFA_Player_Statistical_Analysis_Using_Python.git)
 
 ---
 
@@ -68,14 +77,14 @@
   <img src="https://img.shields.io/badge/View%20My%20Content-000000?style=for-the-badge&logo=medium"/>
 </p>
 
-👉 (Add your blog/vlog link here)
+👉 (https://medium.com/@ayushai.dev)
 
 ---
 
 ## 📫 <span style="color:#00f2fe">Connect With Me</span>  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ayush-tiwary-991493333  
-- 📧 Email: your.email@example.com  
+- 📧 Email:ayushai.dev@gmail.com 
 
 ---
 
@@ -84,4 +93,4 @@
 
 ---
 
-⭐ *"Data is the new oil, but insights are the real fuel."*
+⭐*"Data is the new oil, but insights are the real fuel."*
